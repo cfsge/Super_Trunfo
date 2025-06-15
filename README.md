@@ -59,8 +59,5 @@ No nível Mestre, foi implementado a comparação entre duas cartas e o cálculo
 *   A saída mostrará o resultado da comparação para cada atributo e o Super Poder.
 
 
-## 🏁 Conclusão
-
- Boa sorte e divirta-se!
 
 -cfsg.
